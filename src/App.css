@@ -1,0 +1,21 @@
+body{
+  background-color: aqua;
+}
+#one{
+    border: 2px solid black ;
+
+}
+
+#two{
+  border: 2px solid black ;
+}
+
+#three{
+  border: 2px solid black ;
+  
+}
+
+.focused{
+  background-color: red;
+
+}
